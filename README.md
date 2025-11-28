@@ -3,7 +3,7 @@
 2. Créer un environnement dédié avec:
 python -m venv .venv
 
-3. Active l'environnement: source .venv/bin/activate
+3. Active l'environnement: source .venv\Scripts\activate
 
 4. Installer les dépendances avec:  pip install -r requirements.txt
 
