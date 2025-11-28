@@ -1,0 +1,13 @@
+# Ignorer les environnements virtuels
+Mienv/
+
+# Ignorer les fichiers lourds
+*.model
+*.npy
+*.pkl
+*.zip
+
+# Ignorer les fichiers temporaires
+*.log
+__pycache__/
+.ipynb_checkpoints/
